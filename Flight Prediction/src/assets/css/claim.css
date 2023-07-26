@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.claim-nav{
+    padding:10px;
+    box-shadow: 1px 5px 0 rgba(99, 99, 99, 0.2);
+}
+.claim-header{
+    color: #0082FC;
+    font-family:cursive;
+    font-size: 60px;   
+    font-weight: 400;
+    position: absolute;
+    
+}
+.logo-nav{
+    margin-left: 180px;
+    width: 62.5px;
+    height: 50px;
+    margin-top: 20px;
+    position: absolute;
+}
+.claim-Blog-tit{
+    margin-left: 680px;
+    padding-top: 40px;
+    color: #000;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+}
+.claim-About-tit{
+    margin-left: 815px;
+    padding-top: 40px;
+    color: #000;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+}
+.Login{
+    margin-left: 970px;
+    padding-top: 40px;
+    color: #000;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;   
+    position: absolute;
+}
+.button-claim{
+    margin-left: 1100px;
+    margin-top: 10px;
+    font-size: 28px;
+    background-color: aliceblue;
+    color: #0082FC;
+    border-color:#0082FC ;
+    border-radius: 10px;
+    padding: 12px 10px;
+    font-weight: 600;
+
+}
+.button-claim:hover{
+    background-color: #0082FC;
+    color: aliceblue;
+}
+.Claim-background{
+    background-image: url(src/assets/images/login-background.png);
+    width: 1250px;
+    height:800px;
+    margin-top: 30px;
+    position: absolute;
+}
+.Claim-content{
+    background-color:rgba(39, 138, 229, 0.70);
+    margin-left: 150px;
+    margin-right: 130px;
+    margin-top: 80px;
+    border-radius: 10px;
+    color: #fff;
+    padding-bottom: 20px;
+
+}
+.Claim-header{
+    padding-left: 380px;
+}
+.departure{
+    margin-left: 100px;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+    padding-top: 50px;
+}
+.departure-input{
+    margin-left: 100px;
+    padding-top: 50px;
+    padding: 5px ;
+    padding-right: 150px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 100px;
+    position: absolute;
+}
+.arrival{
+    padding-left: 500px;
+    padding-top: 50px;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+}
+.arrival-input{
+    margin-left: 500px;
+    padding: 5px ;
+    margin-top: 100px;
+    padding-right: 150px;
+    border-radius: 10px;
+    border: none;
+    position: absolute;
+}
+.where{
+    margin-left: 100px;
+    font-family: Inter;
+    padding-top: 180px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+}
+.no-input{
+    margin-left: 100px;
+    margin-top: 240px;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    position: absolute;
+}
+.yes-input{
+    margin-left: 400px;
+    margin-top: 240px;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    position: absolute;
+}
+.Airline-name{
+    margin-left: 100px;
+    font-family: Inter;
+    padding-top: 300px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+    
+}
+.airline{
+    margin-left: 100px;
+    margin-top: 350px;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    position: absolute;
+}
+.Flight-number{
+    margin-left: 100px;
+    font-family: Inter;
+    padding-top:420px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+}
+.Flight-no{
+    margin-left: 100px;
+    margin-top: 470px;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    position: absolute;
+}
+.Flight-Date{
+    margin-left: 500px;
+    font-family: Inter;
+    padding-top:420px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+}
+.Flight-Date-in{
+    margin-left: 500px;
+    margin-top: 470px;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    position: absolute;
+}
+.Continue{
+    border-radius: 10px;
+    font-size: 24px;
+    padding: 5px 100px;
+    margin-left: 350px;
+    background-color: #fff;
+    color: #2E353C;
+    border-color: #2E353C;
+    margin-bottom: 30px;
+    margin-top: 550px;
+}
+.Continue:hover{
+    background-color: #2E353C;
+    color: #fff;
+    border-color: #fff;
+}

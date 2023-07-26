@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.continue-nav{
+    padding:10px;
+    box-shadow: 1px 5px 0 rgba(99, 99, 99, 0.2);
+}
+.continue-header{
+    color: #0082FC;
+    font-family:cursive;
+    font-size: 60px;   
+    font-weight: 400;
+    position: absolute;
+    
+}
+.logo-nav{
+    margin-left: 180px;
+    width: 62.5px;
+    height: 50px;
+    margin-top: 20px;
+    position: absolute;
+}
+.continue-Blog-tit{
+    margin-left: 680px;
+    padding-top: 40px;
+    color: #000;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+}
+.continue-About-tit{
+    margin-left: 815px;
+    padding-top: 40px;
+    color: #000;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+}
+.Login{
+    margin-left: 970px;
+    padding-top: 40px;
+    color: #000;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;   
+    position: absolute;
+}
+.button-continue{
+    margin-left: 1100px;
+    margin-top: 10px;
+    font-size: 28px;
+    background-color: aliceblue;
+    color: #0082FC;
+    border-color:#0082FC ;
+    border-radius: 10px;
+    padding: 12px 10px;
+    font-weight: 600;
+
+}
+.button-continue:hover{
+    background-color: #0082FC;
+    color: aliceblue;
+}
+.back-content{
+    background-image: url(src/assets/images/Front-background.png);
+    width: 1250px;
+    height:600px;
+    margin-top: 30px;
+    position: absolute;
+}
+.content{
+    background-color:rgba(39, 138, 229, 0.70);
+    margin-left: 150px;
+    margin-right: 130px;
+    margin-top: 80px;
+    border-radius: 10px;
+    color: #fff;
+    padding-bottom: 20px;
+}
+.continue-tit{
+    font-size: 48px;
+    padding-left: 300px;
+    padding-top: 50px;
+}
+.click{
+    font-size: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.highlight{
+    color: #000;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: 600;
+}
+.continue-change{
+    padding-top: 50px;
+    padding-left: 250px;
+}
+
+.continue-value{
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 310px;
+}
+.back{
+    padding: 10px 100px;
+    font-size: 24px;
+    background-color: #fff;
+    color: #2E353C;
+    border-color: #2E353C;
+    border-radius: 10px;
+    margin-left: 360px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.back:hover{
+    background-color: #2E353C;
+    color: #fff;
+    border-color: #fff;
+}

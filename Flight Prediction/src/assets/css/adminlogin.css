@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.adminlogin-nav{
+    padding:10px;
+    box-shadow: 1px 5px 0 rgba(99, 99, 99, 0.2);
+}
+.adminlogin-header{
+    color: #0082FC;
+    font-family:cursive;
+    font-size: 60px;   
+    font-weight: 400;
+    position: absolute;
+    
+}
+.logo-nav{
+    margin-left: 180px;
+    width: 62.5px;
+    height: 50px;
+    margin-top: 20px;
+    position: absolute;
+}
+.adminlogin-Blog-tit{
+    margin-left: 680px;
+    padding-top: 40px;
+    color: #000;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+}
+.adminlogin-About-tit{
+    margin-left: 815px;
+    padding-top: 40px;
+    color: #000;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+}
+.Login{
+    margin-left: 970px;
+    padding-top: 40px;
+    color: #000;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;   
+    position: absolute;
+}
+.button-adminlogin{
+    margin-left: 1100px;
+    margin-top: 10px;
+    font-size: 28px;
+    background-color: aliceblue;
+    color: #0082FC;
+    border-color:#0082FC ;
+    border-radius: 10px;
+    padding: 12px 10px;
+    font-weight: 600;
+
+}
+.button-adminlogin:hover{
+    background-color: #0082FC;
+    color: aliceblue;
+}
+.adminlogin-content{
+    background-image: url(src/assets/images/login-background.png);
+    width: 1250px;
+    height:800px;
+    margin-top: 30px;
+    position: absolute;
+    
+}
+.adminlogin-main{
+    background-color:rgba(39, 138, 229, 0.70);
+    margin-left: 150px;
+    margin-right: 130px;
+    margin-top: 80px;
+    border-radius: 10px;
+}
+.adminlogin-tit{
+    color: #fff;
+    font-size: 32px;
+    padding-left: 380px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.adminlogin-mail{
+    
+    padding:10px 500px 10px 70px;
+    font-size: 26px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: none;
+    background-image: url(src/assets/images/mail.svg);
+    background-repeat: no-repeat;
+    background-position-y:8px;
+    
+    
+    
+}
+.adminlogin-psw{
+    padding:10px 500px 10px 70px;
+    font-size: 26px;
+    margin-left: 50px;
+    border-radius: 10px;
+    border: none;
+    background-image: url(src/assets/images/psw.svg);
+    background-repeat: no-repeat;
+    background-position-x: 15px;
+    background-position-y:8px;
+    margin-bottom: 50px;
+
+}
+
+.adminlogin-check{
+    margin-left: 400px;
+    margin-top: 15px;
+    position: absolute;
+}
+.adminlogin-remember{
+    color: #fff;
+    padding-left: 430px;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+.adminlogin-sign-in{
+    
+    border-radius: 10px;
+    font-size: 24px;
+    padding: 5px 100px;
+    margin-left: 360px;
+    background-color: #fff;
+    color: #2E353C;
+    border-color: #2E353C;
+    margin-bottom: 30px;
+}
+.adminlogin-sign-in:hover{
+ 
+    background-color: #2E353C;
+    color: #fff;
+    border-color: #fff;
+    
+}
